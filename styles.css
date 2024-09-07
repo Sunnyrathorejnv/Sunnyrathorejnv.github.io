@@ -40,13 +40,19 @@ footer {
   color: white;
 }
 
+/* Style for Links */
 a {
-  color: #007acc;
+  color: white; /* Change link color to white */
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+/* Make the phone number white */
+header p {
+  color: white; /* This makes the phone number white */
 }
 
 ul {
