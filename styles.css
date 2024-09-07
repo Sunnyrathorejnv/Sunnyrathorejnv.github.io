@@ -10,7 +10,7 @@ header {
   text-align: center;
   padding: 20px;
   background-color: #007acc;
-  color: black;
+  color:white;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
 .profile-pic {
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 80%;
   margin: 10px auto;
   display: block;
 }
